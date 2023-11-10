@@ -40,7 +40,7 @@ function getNivelImc(imc){
   const figuras =  [
     "<br> <img src ='./assets/img/foto_mulher_obesidade3.jpg' class='imagem'>",
     "<br> <img src ='./assets/img/foto_mulher_obesidade2.jpg' class='imagem'>",
-    "<br> <img src ='./assets/img/foto_mulher_obesidade1.jpg' class='imagem'>",,
+    "<br> <img src ='./assets/img/foto_mulher_obesidade1.jpg' class='imagem'>",
     "<br> <img src ='./assets/img/foto_mulher_acima_do_peso.jpg' class='imagem'>",
     "<br> <img src ='./assets/img/Foto_mulher_peso_normal.jpg' class='imagem'>",
     "<br> <img src ='./assets/img/Foto_mulher_abaixo_do_peso.jpg' class='imagem'>",
